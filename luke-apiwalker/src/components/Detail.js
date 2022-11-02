@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import Unknown from './Unknown';
+import Unknown from './Notfound';
 import Axios from 'axios';
 
 const Details = (props) => {
